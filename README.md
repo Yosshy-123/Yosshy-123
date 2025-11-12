@@ -7,4 +7,6 @@ I enjoy coding and developing side projects. Outside programming, I study UX des
 Email: Yosshy_123@proton.me
 
 ### Work inquiries
-For business inquiries or project proposals, please email me at Yosshy_123@proton.me. Include a project summary, timeline, and budget if applicable. I will reply as soon as possible.
+For work-related inquiries, please email me at Yosshy_123@proton.me
+
+Please include "Work Inquiry" in the subject line and a brief description of the project.
