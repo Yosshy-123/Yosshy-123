@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-### About Me
-I love coding and working on side projects.
-
-When I'm not programming, I read about UX design and teach myself new frameworks.
+### About me
+I enjoy coding and developing side projects. Outside programming, I study UX design and explore new frameworks.
 
 ### Contact
-Yosshy_123@proton.me
+Email: Yosshy_123@proton.me
+
+### Work inquiries
+For business inquiries or project proposals, please email me at Yosshy_123@proton.me. Include a project summary, timeline, and budget if applicable. I will reply as soon as possible.
