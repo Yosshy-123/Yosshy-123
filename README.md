@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ### About me
-I enjoy coding and developing side projects. Outside programming, I study UX design and explore new frameworks.
+I enjoy coding and developing side projects.
+
+Outside programming, I study UX design and explore new frameworks.
 
 ### Contact
 Email: Yosshy_123@proton.me
