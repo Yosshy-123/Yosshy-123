@@ -11,7 +11,7 @@ Email: Yosshy_123@proton.me
 ### Work inquiries
 For work-related inquiries, please email me at Yosshy_123@proton.me
 
-Please include "Work Inquiry" in the subject line and a brief description of the project.
+Please include **"Work Inquiry"** in the subject line and a brief description of the project.
 
 ### Links
 GitHub: [https://github.com/Yosshy-123/](https://github.com/Yosshy-123/)
