@@ -1,0 +1,24 @@
+name: Update README year (JST midnight)
+on:
+  schedule:
+    - cron: '15 15 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update year in README (JST)
+        run: |
+          YEAR=$(date -u -d '9 hours' +'%Y')
+          sed -E -i "s/^©[[:space:]]*[0-9]{4}[[:space:]]+Yosshy\. All rights reserved\./© $YEAR Yosshy. All rights reserved./" README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --quiet --cached; then
+            git commit -m "chore: update copyright year to $YEAR"
+            git push
+          else
+            echo "No changes"
+          fi
