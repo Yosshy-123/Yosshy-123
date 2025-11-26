@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 ### About me
+I'm **Yosshy**.
+
+I am a Programmer.
+
 I enjoy coding and developing side projects.
 
 Outside programming, I study UX design and explore new frameworks.
@@ -8,12 +12,12 @@ Outside programming, I study UX design and explore new frameworks.
 ---
 
 ### Contact
-Email: Yosshy_123@proton.me
+Email: *Yosshy_123@proton.me*
 
 ---
 
 ### Work inquiries
-For work-related inquiries, please email me at Yosshy_123@proton.me
+For work-related inquiries, please email me at *Yosshy_123@proton.me*.
 
 Please include **"Work Inquiry"** in the subject line and a brief description of the project.
 
