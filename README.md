@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Self-Introduction
+### About me
 I'm **Yosshy**.
 
 I am a Programmer.
