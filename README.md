@@ -5,9 +5,9 @@ I'm **Yosshy**.
 
 I am a Programmer.
 
-I enjoy coding and developing side projects.
+I enjoy **coding** and developing **side projects**.
 
-Outside programming, I study UX design and explore new frameworks.
+Outside programming, I study **UX design** and explore **new frameworks**.
 
 ---
 
