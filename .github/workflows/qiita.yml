@@ -16,6 +16,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libxml2-utils
+
       - name: Fetch Qiita feed and build markdown
         run: |
           FEED_URL="https://qiita.com/Yosshy_123/feed.atom"
