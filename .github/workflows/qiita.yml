@@ -1,0 +1,26 @@
+name: Update Qiita Posts
+
+on:
+  schedule:
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Qiita RSS
+        uses: Yosshy_123/blog-post-workflow@master
+        with:
+          feed_list: "https://qiita.com/Yosshy_123/feed.atom"
+          comment_tag_name: "QIITA-POSTS"
+          max_post_count: 5
+          commit_message: "Write Qiita posts"
+          template: |
+            - 📝 **[$title]($url)**  
+              <sub>$date</sub>
