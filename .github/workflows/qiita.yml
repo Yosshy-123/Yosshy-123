@@ -2,7 +2,8 @@ name: Update Qiita Posts
 
 on:
   schedule:
-    - cron: "0 15 * * *"
+    # 毎日 0:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,16 +12,67 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch Qiita RSS
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://qiita.com/Yosshy_123/feed.atom"
-          comment_tag_name: "QIITA-POSTS"
-          max_post_count: 5
-          commit_message: "Write Qiita posts"
-          template: |
-            - 📝 **[$title]($url)**  
-              <sub>$date</sub>
+      - name: Fetch Qiita feed and build markdown
+        run: |
+          FEED_URL="https://qiita.com/Yosshy_123/feed.atom"
+          MAX_POSTS=5
+
+          curl -s "$FEED_URL" > feed.xml
+
+          COUNT=$(xmllint --xpath "count(//*[local-name()='entry'])" feed.xml)
+          if [ "$COUNT" -lt "$MAX_POSTS" ]; then
+            MAX_POSTS=$COUNT
+          fi
+
+          OUTPUT=""
+
+          for i in $(seq 1 "$MAX_POSTS"); do
+            TITLE=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='title'])" feed.xml)
+            URL=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='link']/@href)" feed.xml)
+            DATE=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='updated'])" feed.xml | cut -d'T' -f1)
+
+            OUTPUT="${OUTPUT}- 📝 **[${TITLE}](${URL})**  \n  <sub>${DATE}</sub>\n"
+          done
+
+          printf "%b" "$OUTPUT" > qiita_posts.md
+
+      - name: Update README.md
+        run: |
+          awk '
+            BEGIN { inside = 0 }
+            /<!-- QIITA-POSTS:START -->/ {
+              print
+              while ((getline line < "qiita_posts.md") > 0) {
+                print line
+              }
+              inside = 1
+              next
+            }
+            /<!-- QIITA-POSTS:END -->/ {
+              inside = 0
+              print
+              next
+            }
+            inside == 0 {
+              print
+            }
+          ' README.md > README.tmp
+
+          mv README.tmp README.md
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Write Qiita posts"
+          git push
