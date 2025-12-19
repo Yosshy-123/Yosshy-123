@@ -1,0 +1,37 @@
+name: Update Year
+
+on:
+  schedule:
+    # 毎年1月1日 00:00 UTC
+    - cron: "0 0 1 1 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update year between markers
+        run: |
+          CURRENT_YEAR=$(date +'%Y')
+
+          sed -i -E \
+            "s/(<!-- YEAR:START -->).*(<!-- YEAR:END -->)/\1${CURRENT_YEAR}\2/" \
+            README.md
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update year to ${CURRENT_YEAR}"
+            git push
+          fi
