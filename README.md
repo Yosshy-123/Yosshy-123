@@ -23,6 +23,12 @@ Please include **"Work Inquiry"** in the subject line and a brief description of
 
 ---
 
+### Posts
+<!-- QIITA-POSTS:START -->
+<!-- QIITA-POSTS:END -->
+
+---
+
 ### Links
 GitHub: [https://github.com/Yosshy-123/](https://github.com/Yosshy-123/)
 
