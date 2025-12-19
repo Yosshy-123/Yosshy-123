@@ -38,4 +38,4 @@ HomePage: [https://yosshy-123.github.io/](https://yosshy-123.github.io/)
 
 ---
 
-© 2025 Yosshy. All rights reserved.
+© <!-- YEAR:START -->2025<!-- YEAR:END --> Yosshy. All rights reserved.
