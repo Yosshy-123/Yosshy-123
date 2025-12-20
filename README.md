@@ -25,6 +25,14 @@ Please include **"Work Inquiry"** in the subject line and a brief description of
 
 ### Posts
 <!-- QIITA-POSTS:START -->
+- 📝 **[GPT-5.2の登場 — GPT-5.1 からの主な変更点と実務上の注意点](https://qiita.com/Yosshy_123/items/5965cbee6fef0b2136be)**  
+  <sub>2025-12-13</sub>
+- 📝 **[Tor上にWordPressを一括構築するスクリプト](https://qiita.com/Yosshy_123/items/877fecd6ed3c84d1826c)**  
+  <sub>2025-11-29</sub>
+- 📝 **[AIを褒めるだけ 〜もっとAIに感謝しよう〜](https://qiita.com/Yosshy_123/items/871d6fd6dd4c9559cb3e)**  
+  <sub>2025-11-27</sub>
+- 📝 **[AIを極限まで甘くしてみた](https://qiita.com/Yosshy_123/items/817f7dc3d2e3458461b6)**  
+  <sub>2025-11-26</sub>
 <!-- QIITA-POSTS:END -->
 
 ---
