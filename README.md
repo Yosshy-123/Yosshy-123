@@ -26,9 +26,9 @@ Please include **"Work Inquiry"** in the subject line and a brief description of
 ### Posts
 <!-- QIITA-POSTS:START -->
 - 📝 **[[English Version] Releasing KAeRU Log, a Chat App Developed Individually](https://qiita.com/Yosshy_123/items/fcb7b4115145975f77ff)**  
-  <sub>2026-01-03</sub>
+  <sub>2026-01-04</sub>
 - 📝 **[個人開発のチャットアプリ「KAeRU Log」をリリースした話](https://qiita.com/Yosshy_123/items/fa7289905f2fca60e450)**  
-  <sub>2026-01-03</sub>
+  <sub>2026-01-04</sub>
 - 📝 **[【クリスマスを祝おう！】 HTMLでクリスマスツリーを作ってみた](https://qiita.com/Yosshy_123/items/bf4e6ad9ab0813cf5b8a)**  
   <sub>2026-01-02</sub>
 - 📝 **[MITライセンスってなんぞや](https://qiita.com/Yosshy_123/items/c9b7dd12889957ded4fd)**  
