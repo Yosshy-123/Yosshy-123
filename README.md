@@ -25,8 +25,8 @@ Please include **"Work Inquiry"** in the subject line and a brief description of
 
 ### Posts
 <!-- QIITA-POSTS:START -->
-- 📝 **[ディレクトリツリーをサクッと書けるサイト『Dirivine』を作った話](https://qiita.com/Yosshy_123/items/01ac6536962cc7b86e37)**  
-  <sub>2026-01-09</sub>
+- 📝 **[個人開発でディレクトリツリーをサクッと書けるサイト『Dirivine』を作った話](https://qiita.com/Yosshy_123/items/01ac6536962cc7b86e37)**  
+  <sub>2026-01-10</sub>
 - 📝 **[個人開発のチャットアプリ「KAeRU Log」をリリースした話](https://qiita.com/Yosshy_123/items/fa7289905f2fca60e450)**  
   <sub>2026-01-06</sub>
 - 📝 **[【クリスマスを祝おう！】 HTMLでクリスマスツリーを作ってみた](https://qiita.com/Yosshy_123/items/bf4e6ad9ab0813cf5b8a)**  
