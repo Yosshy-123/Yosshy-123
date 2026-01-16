@@ -25,7 +25,7 @@ Please include **"Work Inquiry"** in the subject line and a brief description of
 
 ### Posts
 <!-- QIITA-POSTS:START -->
-- 📝 **[自分のQiita活動をREADME.mdでアピールできるツール『Qiita Glyph』を作った話](https://qiita.com/Yosshy_123/items/5d1321c6ced2037e1d02)**  
+- 📝 **[READMEに貼れるQiita活動メーター『Qiita Glyph』を作った話](https://qiita.com/Yosshy_123/items/5d1321c6ced2037e1d02)**  
   <sub>2026-01-16</sub>
 - 📝 **[仕事を休む言い訳をマルコフ連鎖で自動生成するクソアプリを作った](https://qiita.com/Yosshy_123/items/3edd89d5944ab406197c)**  
   <sub>2026-01-13</sub>
