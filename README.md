@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ### About me
+
 I'm **Yosshy**.
 
 I am a Programmer.
@@ -12,18 +13,25 @@ Outside programming, I study **UX design** and explore **new frameworks**.
 ---
 
 ### Contact
+
 Email: *Yosshy_123@proton.me*
 
 ---
 
 ### Work inquiries
+
 For work-related inquiries, please email me at *Yosshy_123@proton.me*.
 
 Please include **"Work Inquiry"** in the subject line and a brief description of the project.
 
 ---
 
-### Posts
+### Qiita
+
+[![Qiita Glyph](https://qiita-glyph.yosshy-123.workers.dev/Yosshy_123?theme=dark)](https://qiita.com/Yosshy_123)
+
+#### Posts
+
 <!-- QIITA-POSTS:START -->
 - 📝 **[READMEに貼れるQiita活動メーター『Qiita Glyph』を作った話](https://qiita.com/Yosshy_123/items/5d1321c6ced2037e1d02)**  
   <sub>2026-01-17</sub>
@@ -38,6 +46,7 @@ Please include **"Work Inquiry"** in the subject line and a brief description of
 ---
 
 ### Links
+
 GitHub: [https://github.com/Yosshy-123/](https://github.com/Yosshy-123/)
 
 Qiita: [https://qiita.com/Yosshy_123](https://qiita.com/Yosshy_123)
