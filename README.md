@@ -1,30 +1,16 @@
-## Hi there 👋
+## Hi 👋, I'm Yosshy
 
-### About me
+### A passionate Javascript developer
 
-I'm **Yosshy**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yosshy-123&label=Profile views&color=0e75b6&style=flat" alt="Yosshy-123" /> </p>
 
-I am a Programmer.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yosshy-123" alt="Yosshy-123" /></a> </p>
 
-I enjoy **coding** and developing **side projects**.
+- 🌱 I'm currently learning **JavaScript and TypeScript**
 
-Outside programming, I study **UX design** and explore **new frameworks**.
+- 📫 How to reach me **Yosshy_123@proton.me**
 
----
-
-### Contact
-
-Email: *Yosshy_123@proton.me*
-
----
-
-### Work inquiries
-
-For work-related inquiries, please email me at *Yosshy_123@proton.me*.
-
-Please include **"Work Inquiry"** in the subject line and a brief description of the project.
-
----
+- 👨‍💻 All of my projects are available at **[https://yosshy.f5.si/](https://yosshy.f5.si/)**
 
 ### Qiita
 
@@ -43,16 +29,18 @@ Please include **"Work Inquiry"** in the subject line and a brief description of
   <sub>2026-01-13</sub>
 <!-- QIITA-POSTS:END -->
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Yosshy-123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yosshy-123" height="30" width="40" /></a>
+</p>
 
-### Links
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-GitHub: [https://github.com/Yosshy-123/](https://github.com/Yosshy-123/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yosshy-123&show_icons=true&locale=en&layout=compact" alt="Yosshy-123" /></p>
 
-Qiita: [https://qiita.com/Yosshy_123](https://qiita.com/Yosshy_123)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yosshy-123&show_icons=true&locale=en" alt="Yosshy-123" /></p>
 
-HomePage: [https://yosshy-123.github.io/](https://yosshy-123.github.io/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yosshy-123&" alt="Yosshy-123" /></p>
 
----
 
-© 2025-<!-- YEAR:START -->2026<!-- YEAR:END --> Yosshy. All rights reserved.
