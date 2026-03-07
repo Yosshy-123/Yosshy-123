@@ -1,17 +1,8 @@
-## Hi — I’m Yosshy  
+## Hi 👋 — I’m Yosshy  
+
 A passionate JavaScript developer
 
 ---
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Yosshy-123&label=Profile views&color=0e75b6&style=flat" alt="Yosshy-123" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yosshy-123" alt="Yosshy-123" />
-  </a>
-</p>
 
 - 🌱 Currently learning **JavaScript and TypeScript**  
 - 📫 Reach me: **Yosshy_123@proton.me**  
@@ -57,18 +48,4 @@ A passionate JavaScript developer
   <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-</p>
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yosshy-123&show_icons=true&locale=en&layout=compact" alt="Yosshy-123" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yosshy-123&show_icons=true&locale=en" alt="Yosshy-123" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yosshy-123&" alt="Yosshy-123" />
 </p>
