@@ -28,15 +28,6 @@ A passionate JavaScript developer
 
 ---
 
-## Connect
-<p align="left">
-  <a href="https://github.com/Yosshy-123" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yosshy-123" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ## Languages & Tools
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
