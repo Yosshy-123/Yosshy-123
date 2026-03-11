@@ -14,10 +14,9 @@ A passionate JavaScript developer
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
 </div>
 
 ---
