@@ -1,6 +1,10 @@
 ## Hi 👋 — I’m Yosshy  
 
-A passionate JavaScript developer
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yosshy-123&show_icons=true&locale=en&layout=compact" alt="Yosshy Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Yosshy-123&show_icons=true&locale=en" alt="Yosshy Stats" />
+</div>
 
 ---
 
