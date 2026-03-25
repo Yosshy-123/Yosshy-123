@@ -1,10 +1,6 @@
 ## Hi 👋 — I’m Yosshy  
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yosshy-123&show_icons=true&locale=en&layout=compact" alt="Yosshy Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Yosshy-123&show_icons=true&locale=en" alt="Yosshy Stats" />
-</div>
+A passionate JavaScript developer
 
 ---
 
@@ -15,6 +11,7 @@
 ---
 
 ## Languages & Tools
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
