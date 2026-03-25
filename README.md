@@ -21,6 +21,10 @@
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yosshy-123&show_icons=true&locale=en&layout=compact" alt="Yosshy Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Yosshy-123&show_icons=true&locale=en" alt="Yosshy Stats" />
 </div>
 
 ---
