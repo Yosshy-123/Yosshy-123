@@ -12,17 +12,15 @@ A passionate JavaScript developer
 
 ## Languages & Tools
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
+![javascript](https://skillicons.dev/icons?i=js)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![typescript](https://skillicons.dev/icons?i=ts)
+![express](https://skillicons.dev/icons?i=express)
+![redis](https://skillicons.dev/icons?i=redis)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yosshy-123&show_icons=true&locale=en&layout=compact" alt="Yosshy Stats" />
+![Yosshy Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Yosshy-123&show_icons=true&locale=en&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Yosshy-123&show_icons=true&locale=en" alt="Yosshy Stats" />
-</div>
+![Yosshy Stats](https://github-readme-stats.vercel.app/api?username=Yosshy-123&show_icons=true&locale=en)
 
 ---
 
